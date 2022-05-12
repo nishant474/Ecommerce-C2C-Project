@@ -1,0 +1,515 @@
+sudo apt upgrade
+  864  sudo apt update
+  865  sudo du
+  866  sudo su
+  867  sudo ./manager-linux-x64.run
+  868  manage.py
+  869  python3 manage.py
+  870  python3 -m pip install Django
+  871  sudo python3 -m pip install Django
+  872  ./Anaconda3-2021.11-Linux-x86_64.sh
+  873  chmod +x Anaconda3-2021.11-Linux-x86_64.sh
+  874  ./Anaconda3-2021.11-Linux-x86_64.sh
+  875  conda install -c anaconda django
+  876  ./Anaconda3-2021.11-Linux-x86_64.sh
+  877  bash Anaconda3-2021.11-Linux-x86_64.sh
+  878  conda install -c anaconda django
+  879  python --version
+  880  conda create -n BS python=3.9.7
+  881  conda activate BS
+  882  pip install django
+  883  pip install pillow
+  884  django-admin startproject BS
+  885  ls
+  886  cd BS
+  887  ls
+  888  code .
+  889  cd ../
+  890  ls
+  891  mv assets BS/BS
+  892  ls
+  893  cd BS
+  894  ls
+  895  python manage.py startapp pages
+  896  python manage.py runserver
+  897  pip install django-crispy-forms
+  898  python manage.py runserver
+  899  sudo ./manager-linux-x64.run
+  900  python manage.py runserver
+  901  cd BS
+  902  ls
+  903  python manage.py runserver
+  904  python manage.py collectstatic
+  905  cd BS
+  906  ls
+  907  cd Desktop
+  908  ls
+  909  cd BS
+  910  python manage.py collectstatic
+  911  python manage.py runserver
+  912  apt-get install postgresql-12
+  913  sudo apt-get install postgresql-12
+  914  sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
+  915  wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+  916  sudo apt-get update
+  917  sudo apt-get -y install postgresql
+  918  apt-get install postgresql-12
+  919  sudo apt-get install postgresql-12
+  920  sudo apt-get -y install postgresql
+  921  sudo apt-get update
+  922  sudo apt-get install postgresql
+  923  sudo apt-get install postgresql-contrib
+  924  ls /etc/postgresql/9.3/main/
+  925  ls
+  926  service postgresql
+  927  service postgresql status
+  928  sudo su postgres
+  929  man psql
+  930  sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+  931  python manage.py runserver
+  932  sudo apt show postgresql
+  933  sudo apt install postgresql -y
+  934  sudo /etc/init.d/postgresql start
+  935  sudo systemctl status postgresql
+  936  sudo su - postgres
+  937  sudo apt install curl\n
+  938  sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+  939  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list"\n\nsudo apt update\n\nexit
+  940  sudo apt update
+  941  sudo apt install pgadmin4
+  942  sudo apt install pgadmin
+  943  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list"
+  944  sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+  945  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+  946  sudo apt install pgadmin4
+  947  sudo apt-get install pgadmin4
+  948  sudo apt-get install pgadmin5
+  949  sudo apt-get install pgadmin6
+  950  sudo apt-get install pgadmin
+  951  sudo apt install pgadmin4-desktop\n
+  952  python manage.py runserver
+  953  apt install bootstrap 4
+  954  sudo apt install bootstrap 4
+  955  sudo apt install bootstrap4
+  956  sudo apt install bootstrap
+  957  sudo npm install bootstrap
+  958  sudo apt-get install npm
+  959  npm install bootstrap 4
+  960  python manage.py runserver
+  961  pip install django-bootstrap4
+  962  python manage.py runserver
+  963  sudo apt-get install sqlite3
+  964  python manage.py runserver
+  965  python3 manage.py migrate
+  966  sqlite3  db.sqlite3
+  967  python3 manage.py migrate
+  968  python manage.py runserver
+  969  python3 manage.py migrate
+  970  python manage.py runserver
+  971  python3 manage.py migrate
+  972  python manage.py runserver
+  973  sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+  974  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+  975  sudo apt install pgadmin4
+  976  sudo apt install pgadmin
+  977  sudo apt install pgadmin4
+  978  curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+  979  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+  980  curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add\n
+  981  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'\n
+  982  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/focal/ pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'\n
+  983  sudo apt install pgadmin4\n
+  984  sudo apt install pgadmin4-desktop\n
+  985  sudo /usr/pgadmin4/bin/setup-web.sh\n
+  986  sudo /usr/pgadmin4/bin/setup-web.sh
+  987  sudo apt install software-properties-common
+  988  sudo add-apt-repository ppa:deadsnakes/ppa
+  989  sudo apt install python3.8
+  990  sudo add-apt-repository universe
+  991  sudo add-apt-repository ppa:deadsnakes/ppa
+  992  sudo apt-get update
+  993  sudo apt-get install python3.8
+  994  sudo apt install python3.8
+  995  sudo install python3.8
+  996  sudo pip install python3.8
+  997  sudo apt install python3.8
+  998  sudo apt install python3
+  999  python --version
+ 1000  sudo /usr/pgadmin4/bin/setup-web.sh
+ 1001  sudo apt install postgresql postgresql-contrib
+ 1002  psql
+ 1003  sudo su - postgres
+ 1004  service postgresql
+ 1005  man psql
+ 1006  sudo su - postgres
+ 1007  sudo /etc/init.d/postgresql start
+ 1008  sudo su - postgres
+ 1009  sudo /usr/pgadmin4/bin/setup-web.sh
+ 1010  sudo /usr/pgadmin4/venv/bin/python3
+ 1011  sudo mkdir /usr/pgadmin4/venv/bin/python3
+ 1012  sudo apt-get install python3.8 python3.8-dev python3.8-distutils python3.8-venv\n
+ 1013  sudo apt-get install build-essential checkinstall
+ 1014  sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev \\n    libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev libffi-dev zlib1g-de
+ 1015  sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev \libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev libffi-dev zlib1g-de
+ 1016  cd /opt
+ 1017  sudo wget https://www.python.org/ftp/python/3.8.12/Python-3.8.12.tgz
+ 1018  sudo tar xzf Python-3.8.12.tgz
+ 1019  cd Python-3.8.12
+ 1020  sudo ./configure --enable-optimizations
+ 1021  sudo make altinstall
+ 1022  python3.8 -V
+ 1023  cd /opt
+ 1024  sudo rm -f Python-3.8.12.tgz
+ 1025  sudo /usr/pgadmin4/bin/setup-web.sh
+ 1026  sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+ 1027  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+ 1028  sudo apt install pgadmin4
+ 1029  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/bullseye pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+ 1030  sudo apt install pgadmin4
+ 1031  sudo apt autoremove pgadmin4
+ 1032  sudo apt-get --purge remove postgresql postgresql-*
+ 1033  dpkg -l | grep postgres
+ 1034  sudo apt-get --purge remove postgresql postgresql-doc postgresql-common
+ 1035  sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+ 1036  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+ 1037  sudo apt install pgadmin4
+ 1038  sudo apt update
+ 1039  sudo apt autoremove pgadmin4
+ 1040  sudo apt-get --purge remove postgresql postgresql-*
+ 1041  dpkg -l | grep postgres
+ 1042  sudo apt-get --purge remove postgresql postgresql-doc postgresql-common
+ 1043  psql -V
+ 1044  sudo apt-get --purge remove postgresql postgresql-doc postgresql-common
+ 1045  dpkg -l | grep postgres
+ 1046  sudo apt-get --purge remove postgresql postgresql-doc postgresql-common
+ 1047  sudo apt-get --purge remove postgresql postgresql-*
+ 1048  sudo apt update
+ 1049  dpkg -l|grep postgres
+ 1050  sudo rm -rf /var/lib/postgresql/
+ 1051  sudo rm -rf /var/log/postgresql/
+ 1052  sudo rm -rf /etc/postgresql/
+ 1053  sudo apt autoremove pgadmin4
+ 1054  source bin/activate
+ 1055  pip uninstall pgadmin4
+ 1056  deactivate
+ 1057  pip uninstall pgadmin4
+ 1058  pip3 uninstall pgadmin4
+ 1059  sudo apt update
+ 1060  sudo apt --purge remove postgresql
+ 1061  dpkg -l|grep postgres
+ 1062  sudo apt --purge remove postgresql-12 postgresql-client-12 postgresql-client-common postgresql-common
+ 1063  sudo apt --purge remove postgresql-12 postgresql-client postgresql-client-common postgresql-common
+ 1064  sudo apt --purge remove postgresql postgresql-client postgresql-client-common postgresql-common
+ 1065  sudo apt autoremove pgadmin4
+ 1066  cd -/.pgadmin4
+ 1067  cd ~/.pgadmin4
+ 1068  sudo apt update
+ 1069  sudo nano /etc/apt/sources.list
+ 1070  sudo apt update
+ 1071  sudo apt upgrade
+ 1072  sudo apt install curl apt-transport-https gnupg2
+ 1073  sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+ 1074  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+ 1075  sudo apt install pgadmin4
+ 1076  code .
+ 1077  pip install psycopg2
+ 1078  pip install psycopg2-binary
+ 1079  python manage.py runserver
+ 1080  pip install mysqlclient
+ 1081  python manage.py runserver
+ 1082  sudo apt install MySQLdb
+ 1083  sudo pip install MySQLdb
+ 1084  pip install mysqlclient  \n
+ 1085  pip install mysqlclient
+ 1086  sudo apt-get install python3-dev libmysqlclient-dev
+ 1087  pip3 install mysqlclient
+ 1088  pip3 install django-mysqldb
+ 1089  python -m pip install mysqlclient==1.4.2.post1
+ 1090  pip install mysqlclient==2.0.3
+ 1091  pip install mysqlclient==1.3.1
+ 1092  sudo apt-get install python3-dev default-libmysqlclient-dev build-essential
+ 1093  python manage.py runserver
+ 1094  pip install mysql-python
+ 1095  pip install mysqlclient
+ 1096  sudo apt-get install libmysqlclient-dev
+ 1097  apt-get install python-mysqldb
+ 1098  sudo apt-get install python-mysqldb
+ 1099  sudo apt install yum
+ 1100  pip install mysqlclient
+ 1101  sudo apt-get update -y
+ 1102  sudo apt-get install -y python-mysqldb
+ 1103  python manage.py runserver
+ 1104  python manage.py migrate
+ 1105  python manage.py runserver
+ 1106  python manage.py startapp Core
+ 1107  python manage.py migrate
+ 1108  python manage.py makemigrations
+ 1109  python manage.py createsuperuser
+ 1110  python manage.py makemigrations
+ 1111  python manage.py migrate
+ 1112  python manage.py migrate Core
+ 1113  python manage.py migrate
+ 1114  python -m manage.py makemigration
+ 1115  python -m manage makemigration
+ 1116  python -m manage makemigrations
+ 1117  python manage.py makemigrations Core
+ 1118  python manage.py migrate Core
+ 1119  python manage.py makemigrations Core
+ 1120  python manage.py migrate Core
+ 1121  python manage.py createsuperuser
+ 1122  python manage.py runserver
+ 1123  python manage.py makemigrations
+ 1124  python manage.py migrate
+ 1125  python manage.py createsuperuser
+ 1126  python manage.py runserver
+ 1127  python manage.py startapp listing
+ 1128  python manage.py makemigrations
+ 1129  python manage.py migrate
+ 1130  python manage.py runserver
+ 1131  python manage.py makemigrations
+ 1132  python manage.py migrate
+ 1133  python manage.py runserver
+ 1134  sudo ./manager-linux-x64.run
+ 1135  python manage.py runserver
+ 1136  python manage.py startapp accounts
+ 1137  python manage.py runserver
+ 1138  clear
+ 1139  sudo ./manager-linux-x64.run
+ 1140  sudo apt update
+ 1141  sudo apt upgrade
+ 1142  exit
+ 1143  python manage.py runserver
+ 1144  sudo ./manager-linux-x64.run
+ 1145  python login.py
+ 1146  python manage.py runserver
+ 1147  python manage.py collectstatic
+ 1148  python manage.py runserver
+ 1149  python manage.py startapp inquiry
+ 1150  python manage.py makemmigrations
+ 1151  python manage.py makemigrations
+ 1152  python manage.py migrations
+ 1153  python manage.py migration
+ 1154  python manage.py migrate
+ 1155  python manage.py runserver
+ 1156  python manage.py collectstatic
+ 1157  python manage.py runserver
+ 1158  python manage.py makemigrations
+ 1159  python manage.py migrate
+ 1160  python manage.py runserver
+ 1161  python manage.py makemigrations
+ 1162  python manage.py migrate
+ 1163  python manage.py runserver
+ 1164  python manage.py makemigrations
+ 1165  python manage.py migrate
+ 1166  python manage.py runserver
+ 1167  pip install django-crispy-forms
+ 1168  pip install django-crispy
+ 1169  pip install django-crispy-forms
+ 1170  python manage.py runserver
+ 1171  sudo ./manager-linux-x64.run
+ 1172  sudo ./manager-linux-x64.run
+ 1173  python manage.py runserver
+ 1174  sudo ./manager-linux-x64.run
+ 1175  python manage.py runserver
+ 1176  python manage.py makemigrations
+ 1177  python manage.py migrate
+ 1178  python manage.py runserver
+ 1179  sudo ./manager-linux-x64.run
+ 1180  chmod +x Python-3.8.12
+ 1181  python manage.py runserver
+ 1182  python manage.py makemigrations
+ 1183  python manage.py migrate
+ 1184  python manage.py runserver
+ 1185  python manage.py makemigrations
+ 1186  python manage.py migrate
+ 1187  python manage.py runserver
+ 1188  python manage.py makemigrations
+ 1189  sudo ./manager-linux-x64.run
+ 1190  sudo add-apt-repository -y "deb https://packages.microsoft.com/repos/vscode stable main "
+ 1191  sudo apt update
+ 1192  sudo apt -y install code
+ 1193  sudo apt -y upgrade
+ 1194  sudo apt -y dist-upgrade
+ 1195  /bin/python3.10 "/home/nishant/Desktop/Ai Based Attendance System/login.py"
+ 1196  sudo apt remove Python-3.8.12
+ 1197  python --version
+ 1198  python3 --version
+ 1199  sudo rm -rf Python-3.8.12
+ 1200  sudo apt install mysql-connector
+ 1201  clear
+ 1202  pip install mysql-connector-python
+ 1203  /bin/python3.10 "/home/nishant/Desktop/Ai Based Attendance System/login.py"
+ 1204  apt-get clean
+ 1205  sudo apt-get clean
+ 1206  apt-get clean
+ 1207  sudo apt-get install preload
+ 1208  sudo gedit /etc/preload.conf
+ 1209  sudo tail -f /var/log/preload.log
+ 1210  sudo apt-get autoclean
+ 1211  sudo apt-get install bum
+ 1212  cat /proc/sys/vm/swappiness
+ 1213  sudo gedit /etc/sysctl.conf
+ 1214  sudo gedit /etc/default/grub
+ 1215  sudo add-apt-repository ppa:shnatsel/zram
+ 1216  sudo apt-get update -y
+ 1217  sudo apt-get update
+ 1218  sudo apt-get install zramswap-enabler
+ 1219  sudo gedit /etc/init.d/rc
+ 1220  sudo gedit /etc/fstab
+ 1221  sudo ./manager-linux-x64.run
+ 1222  chmod +x manager-linux-x64.run
+ 1223  sudo chmod +x manager-linux-x64.run
+ 1224  sudo ./manager-linux-x64.run
+ 1225  sudo chmod -R 777 lampp/
+ 1226  sudo ./manager-linux-x64.run
+ 1227  sudo chmod 777 lampp/
+ 1228  sudo chmod 777 /lampp
+ 1229  sudo chmod 777 ./lampp
+ 1230  sudo ./manager-linux-x64.run
+ 1231  sudo chmod +R 777 ./lampp
+ 1232  sudo chmod -R 777 ./lampp
+ 1233  sudo ./manager-linux-x64.run
+ 1234  sestatus
+ 1235  sudo ./manager-linux-x64.run
+ 1236  sudo chmod -R 777 temp/
+ 1237  sudo ./manager-linux-x64.run
+ 1238  sudo chmod -R 777 tmp
+ 1239  sudo ./manager-linux-x64.run
+ 1240  sestatus
+ 1241  lampp start
+ 1242  sudo xampp-control-panel
+ 1243  sudo xampp-control-panel.py
+ 1244  xampp-control-panel.py
+ 1245  sudo ./manager-linux-x64.run
+ 1246  sudo apt-get update
+ 1247  sudo apt-get upgrade
+ 1248  sudo ./manager-linux-x64.run
+ 1249  sudo apt-get install preload
+ 1250  sudo apt remove preload
+ 1251  sudo apt-get autoclean
+ 1252  cat /proc/sys/vm/swappiness
+ 1253  sudo gedit /etc/sysctl.conf
+ 1254  cat /proc/sys/vm/swappiness
+ 1255  sudo gedit /etc/default/grub
+ 1256  sudo gedit /etc/fstab
+ 1257  sudo ./manager-linux-x64.run
+ 1258  python manage.py runserver
+ 1259  /bin/python3.10 "/home/nishant/Desktop/Ai Based Attendance System/login.py"
+ 1260  python manage.py runserver
+ 1261  python manage.py makemmigrations
+ 1262  python manage.py makemigrations
+ 1263  python manage.py migrate
+ 1264  python manage.py runserver
+ 1265  python manage.py makemigrations
+ 1266  python manage.py migrate
+ 1267  python manage.py runserver
+ 1268  python manage.py runserver
+ 1269  sudo ./manager-linux-x64.run
+ 1270  sudo ./manager-linux-x64.run
+ 1271  python login.py
+ 1272  python manage.py runserver
+ 1273  sudo ./manager-linux-x64.run
+ 1274  sudo chmod 755 /phpmyadmin/config.inc.php
+ 1275  sudo chmod 755 phpmyadmin/config.inc.php
+ 1276  sudo ./manager-linux-x64.run
+ 1277  /bin/python3.10 "/home/nishant/Desktop/Ai Based Attendance System/login.py"
+ 1278  sudo apt update
+ 1279  sudo apt install mysql-server
+ 1280  sudo apt-get install mariadb-server
+ 1281  sudo apt-get install mysql-server
+ 1282  sudo systemctl start mysql.service
+ 1283  sudo mysql_secure_installation
+ 1284  sudo systemctl start mysql.service
+ 1285  sudo mysql_secure_installation
+ 1286  sudo apt remove mariadb-server
+ 1287  sudo apt remove mysql.service
+ 1288  sudo apt remove mysql_secure_installation
+ 1289  clear
+ 1290  sudo apt install Clementine
+ 1291  sudo apt-get install clementine
+ 1292  sudo apt install mysql-workbench-community
+ 1293  sudo apt install ./mysql-apt-config_0.8.22-1_all.deb
+ 1294  sudo apt install ./mysql-workbench-community_8.0.28-1ubuntu21.10_amd64.deb
+ 1295  exit
+ 1296  ls
+ 1297  cd Downloads
+ 1298  ls
+ 1299  sudo apt remove mysql-workbench-community
+ 1300  clear
+ 1301  apt-get update
+ 1302  sudo apt-get update
+ 1303  sudo apt install -y wget
+ 1304  wget https://dev.mysql.com/get/mysql-apt-config_0.8.15-1_all.deb\nsudo dpkg -i mysql-apt-config_0.8.15-1_all.deb
+ 1305  sudo apt install mysql-community-server
+ 1306  sudo apt update
+ 1307  sudo apt-get install ./mysql-apt-config_0.8.22-1_all.deb
+ 1308  sudo apt-get update
+ 1309  sudo apt-get install snap
+ 1310  snap install mysql-workbench-community
+ 1311  snapd install mysql-workbench-community
+ 1312  sudo install mysql-workbench-community
+ 1313  sudo apt install mysql-workbench-community
+ 1314  sudo apt-get install mysql-workbench-community
+ 1315  sudo snap install mysql-workbench-community
+ 1316  snap install mysql-workbench-community-server
+ 1317  snap install mysql-workbench-community-servers
+ 1318  sudo apt-get install mysql-workbench-community-servers
+ 1319  sudo apt-get install mysql-workbench
+ 1320  snap install mysql-workbench-community
+ 1321  sudo apt install mysql-workbench
+ 1322  sudo snap install mysql-workbench-community
+ 1323  sudo apt update && sudo apt upgrade
+ 1324  sudo apt install mysql-workbench
+ 1325  sudo apt-get install mysql-workbench-community
+ 1326  sudo apt update && sudo apt upgrade
+ 1327  sudo apt-get install adb
+ 1328  adb devices
+ 1329  sudo add-apt-repository ppa:phablet-team/tools
+ 1330  sudo apt-get update
+ 1331  sudo apt-get install phablet-tools android-tools-adb android-tools-fastboot
+ 1332  sudo apt-get install fastboot
+ 1333  sudo fastboot devices
+ 1334  sh unlock.sh
+ 1335  fastboot
+ 1336  unlock.sh
+ 1337  ./unlock.sh
+ 1338  sudo ./unlock.sh
+ 1339  sudo unlock.sh
+ 1340  sudo sh unlock.sh
+ 1341  fastboot flash recovery /media/nishant/Materials/asu/asus twrp/twrp-3.2.3-0-X00TD-20180814.img
+ 1342  fastboot flash recovery '/media/nishant/Materials/asu/asus twrp/twrp-3.2.3-0-X00TD-20180814.img' 
+ 1343  fastboot devices
+ 1344  sudo fastboot devices
+ 1345  sudo fastboot flash recovery '/media/nishant/Materials/asu/asus twrp/twrp-3.2.3-0-X00TD-20180814.img' 
+ 1346  fastboot reboot
+ 1347  sudo fastboot reboot
+ 1348  sudo fastboot flash recovery '/media/nishant/Materials/asu/asus twrp/twrp-3.2.3-0-X00TD-20180814.img' 
+ 1349  sudo ./manager-linux-x64.run
+ 1350  clear
+ 1351  clea
+ 1352  clear
+ 1353  exit
+ 1354  sudo ./manager-linux-x64.run
+ 1355  code .
+ 1356  sudo ./manager-linux-x64.run
+ 1357  sudo apt install git
+ 1358  sudo apt install github
+ 1359  sudo apt-get install github
+ 1360  ls
+ 1361  cd Desktop
+ 1362  ls
+ 1363  cd Ecommerce c2c Project
+ 1364  git init
+ 1365  git remote add origin "https://github.com/nishant474/Ecommerce-C2C-Website.git"
+ 1366  git remote -v
+ 1367  git add .
+ 1368  git commit -m "First Commit"
+ 1369  git config --global user.email "nishanttrivedi474@gmail.com"
+ 1370  git config --global user.name "nishant474"
+ 1371  git commit -m "First Commit"
+ 1372  git push origin master
+ 1373  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
+ 1374  git clone https://<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>@github.com/<user>/<repo>.git
+ 1375  git clone https://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@github.com/<user>/<repo>.git
+ 1376  git clone https://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@github.com/nishant474/<repo>.git
+ 1377  git clone https://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@github.com/nishant474/https://github.com/nishant474/
